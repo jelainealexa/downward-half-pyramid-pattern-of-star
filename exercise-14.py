@@ -5,5 +5,5 @@ rows = 5
 
 # Nested loop
 for i in range(1, rows):
-
-# Print asterisk
+    for j in range(0, i + 1):
+    # Print asterisk
